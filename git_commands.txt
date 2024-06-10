@@ -1,7 +1,7 @@
 GIT Commands
 =============
 
-git init	--------------------------------------Initializes a new Git repository in the current directory.
+git init        --------------------------------------Initializes a new Git repository in the current directory.
 git init <directory> ---------------------------------Creates a new Git repository in the specified directory.
 git clone <repository_url> ---------------------------This Clones a repository from a remote server to your local  machine.
 git clone –branch <branch_name> <repository_url>------Clones a specific branch from a repository.
